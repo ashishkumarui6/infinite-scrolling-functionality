@@ -1,0 +1,38 @@
+.main{
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 10px;
+}
+
+
+.main .top{
+  padding: 20px;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.imgcont{
+  width: 100%;
+  height: 500px;
+  padding: 20px;
+}
+
+
+.main .bot{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+
+.bot img{
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: red;
+  border: 2px solid red;
+}
